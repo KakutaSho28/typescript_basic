@@ -1,5 +1,3 @@
-'use strict';
-
 const bmi = window.prompt('BMIの値を入力してください');
 // const p_element = document.querySelector('p');
 const p_element = document.getElementById('first');
